@@ -1,61 +1,88 @@
-# Craig Davis
-## Senior PHP Developer, UX Director
 
-> [Download PDF](resume.pdf)  
-> [craig@there4development.com](craig@there4development.com)  
-> (999) 888-7777
+# Yifan Wang
+__Principal Android Developer__ 
+wangefan@gmail.com
+(+886) 910-382-233
+<br/>
 
 ------
 
 ### Profile {#profile}
 
-Progressively evolve cross-platform ideas before impactful infomediaries. Energistically visualize tactical initiatives before cross-media catalysts for change.
+>I am a dedicated professional software development with 10 years, specializes in mobile development, windows GUI development, and machine learning.
+
+Education
+National Taiwan University , M.S., Civil Engineering, 2004 ~ 2006
+National Taiwan University of Science and Technology，Taiwan Tech, B.S., Civil Engineering, 2002 ~ 2004
 
 ------
 
 ### Skills {#skills}
 
-* Web Design
-  : Assertively exploit wireless initiatives rather than synergistic core competencies.
-
-* Interface Design
-  : Credibly streamline mission-critical value with multifunctional functionalities.
-
-* Project Direction
-  : Proven ability to lead and manage a wide variety of design and development projects in team and independent situations.
+* Android Application Development
+  : Contributed to Android app development and release on the market. Included Layout / custom view/ animation implementation、Lifecycle management.
+* Windows Platform Development
+  : Worked on Windows software development. Included GUI、poject serialize/deserialze、threading、memory management and process communication.
+* Machine Learning Service Deployment
+  : Worked on machine learning（CNN / Siamese / Yolo neural network）, trained and deployed models for web service.
+  
+<br/>
 
 -------
 
 ### Technical {#technical}
 
-1. XHTML
-1. CSS
-1. Javascript
-1. Jquery
-1. PHP
-1. CVS / Subversion
-1. OS X
-1. Windows XP/Vista
-1. Linux
+1. Android / Java / Kotlin / Clean-Architecture 
+2. C/C++ / MFC / Direct-Show / 
+3. Design Pattern
+4. TensorFlow / Keras / Python
+5. Git / SVN / Windos / Linux 
 
 ------
 
 ### Experience {#experience}
 
-Initrode Conglomerated
-: *Principal and Creative Lead*
-  __2004-2005__
-  Intrinsicly transform flexible manufactured products without excellent intellectual capital. Energistically evisculate orthogonal architectures through covalent action items. Assertively incentivize sticky platforms without synergistic materials.
+#### Kollectin
+*Principal Developer __2018.10-present__*
 
-Gizmonic Institute Company (GIM)
-: *Lead Web Designer*
-  __2001-2004__
-  Globally re-engineer cross-media schemas through viral methods of empowerment. Proactively grow long-term high-impact human capital and highly efficient innovation. Intrinsicly iterate excellent e-tailers with timely e-markets.
+  * Built-up the [Kollectin e-commence](https://play.google.com/store/apps/details?id=net.lateralview.kollectin) app.
+  * Built-up staging app deployment under the [DeployGate](https://deploygate.com/dashboard).
+  * Built-up Crashlytics under Firebase to help reduce the crash rate. The crash rate reduced to 10~15% every month.
+  * Built-up Firebase Analytics to track user behavior.
+  [Video](https://www.youtube.com/watch?v=gh3oxs1AiHw&feature=youtu.be)
+  * Image Similarity paper research
+  * Apply transfer-learning to implement image similarity.
+  * Introduced Siamese-Network to train image similarity.
+  * Built-up regular training mechanism from images database.
+  * Built-up similar-style search service.
+  * Introducing Yolo to detect products.
+ [Video](https://www.youtube.com/watch?v=YZpIvG_6Q94)
+ <br/>
+#### GeoVision
+*Senior engineer __2017.06-2018.10__*
 
-------
+  * Development and maintaining windows GUI software [ASManager](http://www.geovision.com.tw/product/GV-ASManager%20(Access%20Control)).
+  * Integrated RFID / NFC in ASManager.
+  * Built-up the Patrol app within two months.
+  * Development and maintaining [GV-LPR](http://www.geovision.com.tw/tw/product/GV-LPR) module.
+  * Survey papers to implement LPR(License Plate Recognition) - using Deep Learning.
+  * Introduced Yolo (Object-detection) to implement LPR.
+[Video](https://www.youtube.com/watch?v=MRuW7Vvn6Gw&feature=youtu.be)
+<br/>
+#### CipherLab
+*Senior Software developer __2015.01-2017.03__*
 
-### Footer {#footer}
+  * Worked on the app [CipherConnectPro2](https://play.google.com/store/apps/details?id=com.cipherlab.cipherconnectpro2), improve the Bluetooth connection mechanism that is friendly to repository user. 
+[Video](https://www.youtube.com/watch?v=9RRoyhm00nE&feature=youtu.be)
+  * Maintain [Terminal Emulation toolkit (TE)](https://www.cipherlab.com/zh-tw/product-c57916/Mirror-VT-Emulator.html).
+  * Survey IBM iSeries Spec [TN5250](https://mochasoft.dk/tn5250.htm)、[TN3270](https://en.wikipedia.org/wiki/3270_emulator)、[VT100](https://en.wikipedia.org/wiki/VT100)
+  * Built-up TE Android version within 3 monthes.
+  [Video](https://www.youtube.com/watch?v=A9tEWyjaJ-s&feature=youtu.be)
+<br/>
+#### Cyberlink
+*Senior engineer __2008.10-2014.03__*
 
-Craig Davis -- [craig@there4development.com](craig@there4development.com) -- (999) 888-7777
-
-------
+  * Video-Editing tool [Power-Director](https://tw.cyberlink.com/products/video-photo-editor-combo/features_zh_TW.html) feature development and maintained.
+  * Refractory software architecture, reduce 50% duplicated code.
+  * For new feature development, introduce design pattern - Composite Pattern to refactoring project serialize/deserialize mechanism.
+  * Load project performance tuning, decrease 10% loading time for the big project.
