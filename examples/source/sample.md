@@ -12,8 +12,11 @@ wangefan@gmail.com
 >I am a dedicated professional software development with 10 years, specializes in mobile development, windows GUI development, and machine learning.
 
 Education
-National Taiwan University , M.S., Civil Engineering, 2004 ~ 2006
-National Taiwan University of Science and Technology，Taiwan Tech, B.S., Civil Engineering, 2002 ~ 2004
+National Taiwan University, 
+M.S., Civil Engineering, 2004 ~ 2006
+
+National Taiwan University of Science and Technology，Taiwan Tech, 
+B.S., Civil Engineering, 2002 ~ 2004
 
 ------
 
