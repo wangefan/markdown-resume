@@ -61,7 +61,7 @@ wangefan@gmail.com
   * Built-up similar-style search service.
   * Introducing Yolo to detect products.
  [Video](https://www.youtube.com/watch?v=YZpIvG_6Q94)
- <br/>
+ 
 #### GeoVision
 *Senior engineer __2017.06-2018.10__*
 
@@ -72,7 +72,7 @@ wangefan@gmail.com
   * Survey papers to implement LPR(License Plate Recognition) - using Deep Learning.
   * Introduced Yolo (Object-detection) to implement LPR.
 [Video](https://www.youtube.com/watch?v=MRuW7Vvn6Gw&feature=youtu.be)
-<br/>
+
 #### CipherLab
 *Senior Software developer __2015.01-2017.03__*
 
@@ -82,7 +82,7 @@ wangefan@gmail.com
   * Survey IBM iSeries Spec [TN5250](https://mochasoft.dk/tn5250.htm)、[TN3270](https://en.wikipedia.org/wiki/3270_emulator)、[VT100](https://en.wikipedia.org/wiki/VT100)
   * Built-up TE Android version within 3 monthes.
   [Video](https://www.youtube.com/watch?v=A9tEWyjaJ-s&feature=youtu.be)
-<br/>
+
 #### Cyberlink
 *Senior engineer __2008.10-2014.03__*
 
