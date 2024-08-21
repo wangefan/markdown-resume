@@ -1,4 +1,5 @@
 
+
 # Yifan Wang
 __Principal Android Developer__ 
 wangefan@gmail.com
@@ -11,7 +12,7 @@ wangefan@gmail.com
 
 ### Profile {#profile}
 
->I am a dedicated professional software development with 10 years, specializes in mobile development, windows GUI development, and machine learning.
+>I am a dedicated professional software development with 15 years, specializes in embedded Linux, windows  based, Android mobile development, and machine learning.
 <br/>
 
 ------
@@ -28,12 +29,13 @@ wangefan@gmail.com
 ------
 
 ### Skills {#skills}
-
+* Embedded Linux Development
+  : Contributed to develop tasks with SoC and RCU vendor.
 * Android Application Development
   : Contributed to Android app development and release on the market. Included Layout / custom view / animation implementation, Lifecycle management.
   
 * Windows Platform Development
-  : Worked on Windows software development. Included GUI, poject serialize / deserialze, threading, memory management and process communication.
+  : Worked on Windows software development. Included GUI, poject serialize / deserialze, V/A streaming, threading, memory management and process communication.
   
 * Machine Learning Service Deployment
   : Worked on machine learning ( CNN / Siamese / Yolo neural network ), trained and deployed models for web service.
