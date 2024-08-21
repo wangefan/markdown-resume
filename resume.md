@@ -12,7 +12,7 @@ wangefan@gmail.com
 
 ### Profile {#profile}
 
->I am a dedicated professional software development with 15 years, specializes in embedded Linux, windows  based, Android mobile development, and machine learning.
+>I am a developer with a strong focus on embedded Linux systems, software architecture, design patterns, and mathematics. My expertise spans C/C++ (including Visual C++), Android development (Java/Kotlin), and Machine Learning (TensorFlow/Keras). Driven by a passion for coding, I have developed a wide range of projects across multiple platforms, utilizing various programming languages to tackle diverse challenges.
 <br/>
 
 ------
